@@ -1,0 +1,45 @@
+body {
+  font-family: "Poppins", sans-serif;
+  background-color: #fff;
+}
+
+.text-divide{
+  position: relative;
+}
+
+.text-divide::before{
+  content: "";
+  position: absolute;
+  height: 1px;
+  width: 35%;
+  background-color: #bdbdbd;
+  top: 50%;
+  left: 0;
+  transform: translateY(-50%);
+}
+
+.text-divide::after{
+  content: "";
+  position: absolute;
+  height: 1px;
+  width: 35%;
+  background-color: #bdbdbd;
+  top: 50%;
+  right: 0;
+  transform: translateY(-50%);
+}
+
+.stateWiseIconCard, .stateWiseIconCardImage{
+  height: 200px;
+  width: 100%;
+}
+
+.searchInputBox{
+  border: none;
+  outline: none;
+}
+
+.searchInputBox:focus{
+  border: none;
+  outline: none;
+}
