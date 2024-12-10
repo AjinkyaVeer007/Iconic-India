@@ -3,11 +3,11 @@ body {
   background-color: #fff;
 }
 
-.text-divide{
+.text-divide {
   position: relative;
 }
 
-.text-divide::before{
+.text-divide::before {
   content: "";
   position: absolute;
   height: 1px;
@@ -18,7 +18,7 @@ body {
   transform: translateY(-50%);
 }
 
-.text-divide::after{
+.text-divide::after {
   content: "";
   position: absolute;
   height: 1px;
@@ -29,17 +29,29 @@ body {
   transform: translateY(-50%);
 }
 
-.stateWiseIconCard, .stateWiseIconCardImage{
+.stateWiseIconCard,
+.stateWiseIconCardImage {
   height: 200px;
   width: 100%;
 }
 
-.searchInputBox{
+.searchInputBox {
   border: none;
   outline: none;
 }
 
-.searchInputBox:focus{
+.searchInputBox:focus {
   border: none;
   outline: none;
+}
+
+.stateIconImage,
+.stateIconContainer {
+  width: 100%;
+  height: 400px;
+}
+
+.stateIconContainer {
+  overflow: hidden;
+  position: relative;
 }
