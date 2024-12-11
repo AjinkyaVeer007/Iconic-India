@@ -5,6 +5,7 @@ import Navbar from "./components/Navbar";
 import "./App.css";
 import Layout from "./layout/Layout";
 import StateIcons from "./pages/StateIcons";
+import Icon from "./components/Icon";
 
 function App() {
   const route = createBrowserRouter([
@@ -19,6 +20,10 @@ function App() {
         {
           path: "/state/:state",
           element: <StateIcons />,
+        },
+        {
+          path: "/icon/:iconName",
+          element: <Icon />,
         },
       ],
     },
