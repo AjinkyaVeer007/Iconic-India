@@ -7,17 +7,7 @@ body {
   position: relative;
 }
 
-.text-divide::before {
-  content: "";
-  position: absolute;
-  height: 1px;
-  width: 35%;
-  background-color: #bdbdbd;
-  top: 50%;
-  left: 0;
-  transform: translateY(-50%);
-}
-
+.text-divide::before,
 .text-divide::after {
   content: "";
   position: absolute;
@@ -25,8 +15,15 @@ body {
   width: 35%;
   background-color: #bdbdbd;
   top: 50%;
-  right: 0;
   transform: translateY(-50%);
+}
+
+.text-divide::before {
+  left: 0;
+}
+
+.text-divide::after {
+  right: 0;
 }
 
 .stateWiseIconCard,
