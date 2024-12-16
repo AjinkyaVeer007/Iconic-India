@@ -1,0 +1,36 @@
+{
+  "mh": {
+    "state": "Maharashtra",
+    "state_code": "mh",
+    "icons": [
+      {
+        "name": "Achala Fort",
+        "category": "fort",
+        "built": "1636",
+        "location": "Nashik, Maharashtra",
+        "intro": "Achala Fort is the westernmost fort in the Satmala hill range, located 55 km from Nashik in Maharashtra. It is close to Ahivant Fort, with Achala, Ahivant, and Mohandar forts situated near each other. Achala and Mohandar forts were built to protect Ahivant Fort. According to Captain Briggs, Achala Fort is a large hill with an easy climb until the steep top.",
+        "travel": {
+          "0": {
+            "stop": "Chhatrapati Shivaji Maharaj Terminus, Mumbai",
+            "info": "You can take express train from mumbai"
+          },
+          "1": {
+            "stop": "Nashik Road railway station",
+            "info": "The closest railway station is Nashik Road, about 40 km from the fort."
+          },
+          "2": {
+            "stop": "Vani town",
+            "info": "27 KM from nashik road railway station. You can take a taxi or a local bus to Vani"
+          },
+          "3": {
+            "stop": "Dagad Pimpri",
+            "info": "The trek starting from Dagad Pimpri, a small village around 13 km from Vani"
+          }
+        },
+        "history": {
+          "para": "[p] The history of Achala Fort in Maharashtra, like many forts in the region, is tied to the broader history of the Marathas, the Mughals, and local rulers during the medieval and early modern periods. Here’s a concise timeline and summary of its history since the 1600s. [p] [st] Early 1600s [st] Local Rulers and Strategic Importance : Achala Fort, along with its neighboring forts Ahivant and Mohandar, played a key role in guarding trade routes and the nearby plains. These forts were under the control of regional rulers and chieftains who managed the Satmala hill range for defensive purposes. [st] Mid-1600s [st] [b] Rise of the Marathas [b] As the Maratha Empire began to rise under Shivaji Maharaj, many forts in the region, including Achala, came under Maratha control. Achala Fort likely served as a minor outpost to support the larger fortification at Ahivant, which was strategically more significant. [st] Late 1600s [st] [b] Mughal-Maratha Conflicts [b] The fort, like many others in Maharashtra, became a site of conflict during the Mughal-Maratha wars. After Aurangzeb’s arrival in the Deccan in the late 17th century, the Mughals launched campaigns to capture forts in the region, including Achala. However, its smaller size and relative lack of strategic value compared to Ahivant meant it was primarily used as a supporting base. [st] 1700s [st] [b] Maratha Stronghold [b] During the height of the Maratha Empire, Achala Fort remained under Maratha control. It was part of a network of forts used to monitor the surrounding territory and protect trade routes in the Nashik region. [st] 1800s [st] [b] British Era [b] After the fall of the Maratha Empire in the early 19th century, the British took control of most forts in the Deccan region, including Achala. British records, such as those by Captain Briggs, describe the fort as a large hill with an easy ascent, but steep at the top. Its strategic importance had diminished by this time, and it was likely abandoned or minimally used. [st] Modern Times [st] [b] Tourism and Local Significance [b] Today, Achala Fort is primarily a trekking destination. Its proximity to Ahivant and Mohandar makes it part of a popular circuit for hikers and history enthusiasts exploring the forts of the Satmala range. [st] Notable Historical Features [st] [b] Construction and Role in Defense [b] The fort is relatively simple compared to larger forts like Ahivant or Harishchandragad, reflecting its role as a supporting outpost. Along with Mohandar, it was built to protect Ahivant Fort, which held greater strategic importance."
+        }
+      }
+    ]
+  }
+}

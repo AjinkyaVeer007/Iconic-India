@@ -68,6 +68,38 @@ function Icon() {
           built several structures in the fort such as a big tank and a
           step-well.
         </div>
+        <div className="text-gray-700 font-semibold text-md py-2">
+          Early 1600s
+        </div>
+        <div className="text-gray-700 text-sm py-2">
+          <b>Local Rulers and Strategic Importance : </b>
+          Achala Fort, along with its neighboring forts Ahivant and Mohandar,
+          played a key role in guarding trade routes and the nearby plains.
+          These forts were under the control of regional rulers and chieftains
+          who managed the Satmala hill range for defensive purposes.
+        </div>
+        <div className="text-gray-700 font-semibold text-md py-2">
+          Mid-1600s
+        </div>
+        <div className="text-gray-700 text-sm py-2">
+          <b>Rise of the Marathas : </b>
+          Achala Fort, along with its neighboring forts Ahivant and Mohandar,
+          played a key role in guarding trade routes and the nearby plains.
+          These forts were under the control of regional rulers and chieftains
+          who managed the Satmala hill range for defensive purposes.
+        </div>
+        <div className="text-gray-700 font-semibold text-md py-2">
+          Late 1600s
+        </div>
+        <div className="text-gray-700 text-sm py-2">
+          <b>Mughal-Maratha Conflicts : </b>
+          The fort, like many others in Maharashtra, became a site of conflict
+          during the Mughal-Maratha wars. After Aurangzeb’s arrival in the
+          Deccan in the late 17th century, the Mughals launched campaigns to
+          capture forts in the region, including Achala. However, its smaller
+          size and relative lack of strategic value compared to Ahivant meant it
+          was primarily used as a supporting base.
+        </div>
       </div>
       <div className="col-span-2"></div>
     </div>
